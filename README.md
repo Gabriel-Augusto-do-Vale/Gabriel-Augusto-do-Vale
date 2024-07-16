@@ -15,6 +15,8 @@ E-mail: gabrielaugusto.vale2005@gmail.com
 Telefone: +55 (41) 99730-9216
 
 ######################################################################################################################################################
+
+
 ENGLISH:
 Hello! My name is Gabriel Augusto do Vale, a 19-year-old Software Engineering enthusiast from Brazil. 
 Currently, I am studying Software Engineering at UniSENAIpr and constantly seeking learning opportunities through various courses.
